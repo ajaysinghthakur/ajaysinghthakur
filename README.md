@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysinghthakur" alt="ajaysinghthakur" /></a> </p>
 
-- 🌱 I’m currently learning **swiftUI, React, Python**
+- 🌱 I’m currently learning **swiftUI, Android, Jetapack Compose**
 
 - 📝 I regularly write articles on [https://ajaysinghthakur.medium.com](https://ajaysinghthakur.medium.com)
 
-- 💬 Ask me about **swift, iOS**
+- 💬 Ask me about **swift, iOS, Android**
 
 - 📫 How to reach me **ajaysingh.thakur76@gmail.com**
 
