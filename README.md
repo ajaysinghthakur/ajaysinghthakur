@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Singh Thakur</h1>
-<h3 align="center">A Senior iOS developer, current working on vision, CoreML</h3>
+<h3 align="center">Senior Software Engineer, expertise in iOS and Android, currently focusing on jetpack compose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghthakur&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghthakur" /> </p>
 
